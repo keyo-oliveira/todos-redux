@@ -1,0 +1,3 @@
+interface reduxState {
+    todos: Todo[]
+}
